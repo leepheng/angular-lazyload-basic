@@ -1,4 +1,7 @@
-# Lazy
+# About
+This is just a basic template for angular lazy load module
+
+# angular-lazyload-basic
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
