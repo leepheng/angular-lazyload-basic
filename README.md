@@ -1,5 +1,6 @@
 # About
 This is just a basic template for angular lazy load module
+You can read my article about lazy loading in [here](https://medium.com/@leekp/lazy-loading-with-angular-4-29c23792b7f4)
 
 # angular-lazyload-basic
 
