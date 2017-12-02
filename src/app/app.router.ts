@@ -4,7 +4,8 @@ import { Routes, RouterModule } from '@angular/router';
 export const router: Routes = [
     {
         path: '',
-        loadChildren: 'app/components/home/home.module#HomeModule'
+        loadChildren: 'app/components/home/home.module#HomeModule',
+        pathMatch: 'full'
     },
     {
         path: 'gallery',
